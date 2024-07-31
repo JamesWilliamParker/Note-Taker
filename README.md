@@ -25,3 +25,6 @@ https://jameswilliamparker.github.io/Note-Taker/
 
 ## Repository Link
 https://github.com/JamesWilliamParker/Note-Taker
+
+## Resources
+W3 School, Jordan Reeves, Jose, MDN, Bootcamp Lectures
